@@ -1,0 +1,14 @@
+.Navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 188, 68);
+    height: 100px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.link {
+    margin-right: 50px;
+    text-decoration: none;
+}

@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "Smartphone",
+      "price":30,
+      "description":"abc",
+      "image": "https://www.imagemobiles.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-11-at-12.13.54-PM.jpeg"
+    },
+
+    {
+      "id": 1,
+      "name": "Watch",
+      "price":20,
+      "description":"abc",
+      "image": "https://m.media-amazon.com/images/I/71IbtYa4G1S._UX342_.jpg"
+    },
+{
+  "id": 2,
+      "name": "Shirts",
+      "price":50,
+      "description":"abc",
+      "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2164373/2017/11/15/11510749192975-Roadster-Men-Brown--Black-Regular-Fit-Checked-Casual-Shirt-8071510749192783-1.jpg"
+  },
+  {
+    "id": 3,
+        "name": "Pants",
+        "price":100,
+        "description":"abc",
+        "image": "https://cdn.shopify.com/s/files/1/0571/5122/6063/products/kd00505_navy_1_2440x.jpg?v=1645555562"
+    }
+]
+}
+
+

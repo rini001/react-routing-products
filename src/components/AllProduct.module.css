@@ -1,0 +1,14 @@
+.mainDiv{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.image {
+    height:30rem;
+    width:40rem;
+}
+.heading {
+    color: 	#eb882c;
+    font-size: 30px;
+}
+
